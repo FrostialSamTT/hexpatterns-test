@@ -3,6 +3,7 @@
 #def (Effects)
 (
 {
+{
     White Sun's Zenith
     Green Sun's Zenith
     Black Sun's Zenith    
@@ -19,6 +20,7 @@
     Subtractive Distillation
     Fisherman's Gambit
     Hermes' Gambit
+
     
     
     
@@ -27,3 +29,15 @@
 $Effects
 
 Thoth's Gambit
+
+// Looping
+Gemini Decomposition
+Numerical Reflection(200)
+Mind's Reflection
+Enqueue
+
+}
+Gemini Decomposition
+Numerical Reflection(200)
+Mind's Reflection
+Enqueue
