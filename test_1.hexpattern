@@ -1,15 +1,13 @@
-// Gets nearby enemies and makes them explode.
-
 {
     Compass' Purification
-    Numerical Reflection: 2
+    @num(2)
     Explosion    
 }
 
 Mind's Reflection
-Numerical Reflection: 1
+@num(5)
 
 Zone Distillation: Monster
 
 Thoth's Gambit
-    
+
