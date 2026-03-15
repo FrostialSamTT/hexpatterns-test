@@ -2,7 +2,7 @@
 // Effects to apply
 #def (Effects)
 (
-{
+
 {
     White Sun's Zenith
     Green Sun's Zenith
@@ -27,17 +27,8 @@
 }
 
 $Effects
-Gemini Decomposition
+
 Thoth's Gambit
-Bookkeeper's Gambit(v)
-Gemini Decomposition
-Numerical Reflection(200)
-Mind's Reflection
-Enqueue
 
 
-}
-Gemini Decomposition
-Numerical Reflection(200)
-Mind's Reflection
-Enqueue
+

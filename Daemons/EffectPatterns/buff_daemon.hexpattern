@@ -1,0 +1,42 @@
+// Using hexlator here..
+// Effects to apply
+#def (Effects)
+(
+
+
+    {
+        White Sun's Zenith
+        Green Sun's Zenith
+        Black Sun's Zenith    
+    }
+    )
+{
+    {
+        Mind's Reflection
+        Numerical Reflection(10)
+        Numerical Reflection(2)
+
+        Flock's Reflection
+        Numerical Reflection(1)
+        Subtractive Distillation
+        Fisherman's Gambit
+        Hermes' Gambit
+
+        
+        
+        
+    }
+
+    $Effects
+
+    Thoth's Gambit
+
+
+
+
+
+}
+
+Gemini Decomposition
+
+
