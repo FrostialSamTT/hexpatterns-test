@@ -1,0 +1,25 @@
+// Effects to apply
+#def (Effects)
+(
+{
+    White Sun's Zenith
+    Green Sun's Zenith
+    Black Sun's Zenith    
+}
+)
+
+{
+    Mind's Reflection
+    @num(10) // Time for
+    @num(2) // Potency
+
+    Flock's Reflection
+    @num(1)
+    Subtractive Distillation
+    Fisherman's Gambit
+    
+}
+
+$Effects
+
+Thoth's Gambit
