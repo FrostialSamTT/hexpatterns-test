@@ -3,6 +3,10 @@
 (
 @pattern(EAST,qeqwqwqwqwqeqaweqqqqqwweeweweewqdwwewewwewweweww)
 )
+#def (placeHolder)
+(
+Bookkeeper's Gambit(-)
+)
 // Effects to apply
 #def (Effects)
 (
@@ -13,47 +17,47 @@
     }
 )
 
+
 {
+    $placeHolder
     {
         {
-            {
-                Mind's Reflection
-                Numerical Reflection(10)
-                Numerical Reflection(2)
+            Mind's Reflection
+            Numerical Reflection(10)
+            Numerical Reflection(2)
 
-                Flock's Reflection
-                Numerical Reflection(1)
-                Subtractive Distillation
-                Fisherman's Gambit
-                Hermes' Gambit
+            Flock's Reflection
+            Numerical Reflection(1)
+            Subtractive Distillation
+            Fisherman's Gambit
+            Hermes' Gambit
 
-                
-                
-                
-            }
-
-            $Effects
-
-            Thoth's Gambit
+            
             
             
         }
 
-        Gemini Decomposition
-        Hermes' Gambit
-        Bookkeeper's Gambit(v)
-        Numerical Reflection(200)
-        Mind's Reflection
-        $Enqueue
+        $Effects
+
+        Thoth's Gambit
+        
+        
     }
+
     Gemini Decomposition
+    Hermes' Gambit
+    Bookkeeper's Gambit(v)
     Numerical Reflection(200)
     Mind's Reflection
     $Enqueue
 }
+
+
+
+
+
 Gemini Decomposition
 Numerical Reflection(200)
 Mind's Reflection
 $Enqueue
-
 
