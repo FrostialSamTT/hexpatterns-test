@@ -1,10 +1,10 @@
 #def (placeholder)
 (
-    Bookkeeper's Gambit(-)
+    Bookkeeper's Gambit(--)
 )
 
 {
-    $placeholder
+    {$placeholder}
     >>
     Gemini Decomposition
     Numerical Reflection(1)
@@ -13,7 +13,9 @@
     Hermes' Gambit
 }
 Gemini Decomposition
-Numerical Reflection(1)
+{$placeholder}
+Locator's Distillation
 Jester's Gambit
+Undertaker's Gambit
 Surgeon's Exaltation
 Hermes' Gambit
